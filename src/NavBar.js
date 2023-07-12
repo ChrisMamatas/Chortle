@@ -14,7 +14,7 @@ export default function NavBar(props) {
     }
 
     return (
-        <Navbar collapseOnSelect className="bg-body-tertiary" fixed="top">
+        <Navbar collapseOnSelect className="bg-light" fixed="top">
             <Container>
                 <Navbar.Brand href="#home">Chortler</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
