@@ -1,0 +1,55 @@
+[{
+    "id": "1",
+    "user": "Brad",
+    "community": "Interesting Things",
+    "likes": "15",
+    "dislikes": 10,
+    "title": "Hi",
+    "content": "This is a very interesting post",
+    "image": "intersting.jpeg",
+    "date": "Mon"
+},
+{
+    "id": "2",
+    "user": "Fred",
+    "community": null,
+    "likes": "90",
+    "dislikes": 10,
+    "title": "Hi",
+    "content": "Your mom is smelly",
+    "image": null,
+    "date": "Mon"
+},
+{
+    "id": "3",
+    "user": "Jill",
+    "community": null,
+    "likes": "1",
+    "dislikes": 10,
+    "title": "Hi",
+    "content": "I liked my own post!",
+    "image": null,
+    "date": "Mon"
+},
+{
+    "id": "4",
+    "user": "Patty",
+    "community": null,
+    "likes": "999",
+    "dislikes": 10,
+    "title": "Hi",
+    "content": "I have a lot of friends",
+    "image": null,
+    "date": "Mon"
+},
+{
+    "id": "5",
+    "user": "Krils",
+    "community": null,
+    "likes": "12341",
+    "dislikes": 10,
+    "title": "Hi",
+    "content": "I'm the biggest bird",
+    "image": null,
+    "date": "Tuesday"
+}]

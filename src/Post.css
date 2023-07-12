@@ -1,0 +1,13 @@
+.head {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 10px;
+}
+
+.community {
+    font-weight: bold;
+}
+
+.username {
+    font-style: italic;
+}
